@@ -1,0 +1,9 @@
+--DEBUG MODE ON;;
+--PRINT STORE ON;;
+--PRINT ENV ON;;
+--SAFE MODE OFF;;
+
+eint paolo = 7;;
+eint pippo = 0;;
+paolo = pippo;;
+
